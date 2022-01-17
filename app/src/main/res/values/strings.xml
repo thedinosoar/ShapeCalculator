@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShapeCalculator</string>
+    <string name="title_rectangle">Rectangle Calculator</string>
+    <string name="title_triangle">Triangle Calculator</string>
+    <string name="title_rhombus">Rhombus Calculator</string>
+    <string name="tite_circle">Circle Calculator</string>
+
+    <string name="title_rectangle_nav">Rectangle</string>
+    <string name="title_triangle_nav">Triangle</string>
+    <string name="title_rhombus_nav">Rhombus</string>
+    <string name="title_circle_nav">Circle</string>
+    <string name="hint_height">Enter Height</string>
+    <string name="hint_width">Enter Width</string>
+    <string name="btn_calc_rect">Calculate Rectangle</string>
+    <string name="btn_calc_tri"> Calculate Triangle</string>
+    <string name="txt_area">Click \'Calculate\' For Area</string>
+    <string name="txt_perimeter" />
+    <string name="hint_radius">Enter Radius</string>
+    <string name="btn_calc_circ">Calculate circle</string>
+    <string name="btn_calc_rhom">Calculate Rhombus</string>
+
+</resources>
